@@ -1,0 +1,10 @@
+pytesseract
+Pillow
+argostranslate
+python-docx
+opencv-python
+numpy
+langdetect
+pillow-heif
+pdf2image
+pdfplumber
