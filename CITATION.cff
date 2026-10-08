@@ -1,14 +1,29 @@
 cff-version: 1.2.0
-title: "Archives-for-Everyone: an open-source workflow for OCR, transcription and translation of machine-written archival documents"
-message: "If you use this software, please cite it using the metadata from this file."
+message: "If you use this software in your research, please cite it using the metadata below."
+
 type: software
+title: "Archives-for-Everyone: An Open-Source Workflow for OCR, Transcription and Translation of Machine-Written Archival Documents"
+
 authors:
   - family-names: Ceppetelli
     given-names: Alessandro
-year: 2026
-abstract: "Archives-for-Everyone is a multilingual OCR, transcription and translation workflow for machine-written archival documents."
+    orcid: "https://orcid.org/0009-0005-5178-222X"
+
+version: "0.1.1"
+date-released: 2026-10-08
+
+doi: 10.5281/zenodo.23248481
+
+repository-code: "https://github.com/alessandro-cpp/Archives-for-Everyone"
+
+license: MIT
+
 keywords:
+  - Optical Character Recognition
   - OCR
-  - archival research
-  - heritage science
-  - translation
+  - Machine Translation
+  - Cultural Heritage
+  - Digital Humanities
+  - Archival Research
+  - Open Source
+  - Preventive Conservation
