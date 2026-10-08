@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software in your research, please cite it using the metadata below."
 
 type: software
-title: "Archives-for-Everyone: An Open-Source Workflow for OCR, Transcription and Translation of Machine-Written Archival Documents"
+title: "Archives-for-Everyone: an open-source workflow for OCR, transcription and translation of machine-written archival documents"
 
 authors:
   - family-names: Ceppetelli
